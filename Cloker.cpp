@@ -3,6 +3,9 @@
 #include <Windows.h>
 #include <locale>;
 using namespace std;
+
+//Hello Edik!!
+
 class Observer
 {
 public:
