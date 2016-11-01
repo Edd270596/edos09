@@ -6,6 +6,9 @@
 #include <algorithm>
 #include <Windows.h>
 using namespace std;
+
+//Happy Hew Year!
+
 class EatablePresent
 {
 	string name;
